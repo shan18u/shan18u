@@ -8,8 +8,6 @@ This is the place where I opensource stuff and break things. <br>
 👨‍💻  Read more about my projects at .com<br>
 ⚡  Check out my YouTube channel and blog posts.<br>
 
-📕  Latest Blog Posts
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shan18u&show_icons=true&theme=tokyonight" />
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan18u&layout=compact" />
 
@@ -20,3 +18,8 @@ This is the place where I opensource stuff and break things. <br>
 <a href="www.linkedin.com/in/shivanshchhabra">![Chrome Extension](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</a>
 
 <a href="www.linkedin.com/in/shivanshchhabra"> <img src="https://img.icons8.com/avantgarde/100/null/internet.png"/> </a>
+
+📕  Latest Blog Posts<br>
+links...
+<br>  Latest Vidoes <br>
+links...
