@@ -1,7 +1,7 @@
 # Hi there, I'm Shivansh Chhabra!! 
 This is the place where I opensource stuff and break things. <br>
 
-💬  **Studying in SJSU, CS 3rd year student.**<br>
+💬  **Studying in SJSU, CS student.**<br>
 🔭  I’m currently working on something cool 😉<br>
 🌱  I’m currently learning Flutter, Go.<br>
 📫  How to reach me: <br>
