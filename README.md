@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things. <br>
 
 🔭  I’m currently working on something cool 😉<br>
 🌱  I’m currently learning Flutter, Go.<br>
-💬  Studying in SJSU, CS 4th year.<br>
+💬  Studying in SJSU, CS 4th year student.<br>
 📫  How to reach me: <br>
 👨‍💻  Read more about my projects at .com<br>
 ⚡  Check out my YouTube channel and blog posts.<br>
