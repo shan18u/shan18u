@@ -1,4 +1,15 @@
-# Hi there, I'm Shivansh!! 😎
+# Hi there, I'm Shivansh Chhabra!! 
+This is the place where I opensource stuff and break things. <br>
+
+🔭  I’m currently working on something cool 😉<br>
+🌱  I’m currently learning Flutter, Go.<br>
+💬  Studying in SJSU, CS 4th year.<br>
+📫  How to reach me: <br>
+👨‍💻  Read more about my projects at .com<br>
+⚡  Check out my YouTube channel and blog posts.<br>
+
+📕  Latest Blog Posts
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shan18u&show_icons=true&theme=tokyonight" />
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan18u&layout=compact" />
 
