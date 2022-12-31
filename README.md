@@ -8,4 +8,4 @@
 <a href="www.linkedin.com/in/shivanshchhabra">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="www.linkedin.com/in/shivanshchhabra">![Chrome Extension](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</a>
 
-<a href="https://shan18u.github.io/Personal_portfolio/"> <img src="https://img.icons8.com/avantgarde/100/null/internet.png"/> </a>
+<a href="www.linkedin.com/in/shivanshchhabra"> <img src="https://img.icons8.com/avantgarde/100/null/internet.png"/> </a>
