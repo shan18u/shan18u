@@ -7,7 +7,7 @@ This is the place where I opensource stuff and break things. <br>
 📫  How to reach me: <br>
 ⚡  Check out my YouTube channel and blog posts.<br>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shan18u&show_icons=true&theme=tokyonight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shan18u&show_icons=true&theme=transparent"/>
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan18u&layout=compact" />
 
 
