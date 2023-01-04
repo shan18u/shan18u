@@ -19,7 +19,7 @@ This is the place where I opensource stuff and break things. <br>
 👨‍💻  Read more about my projects and libraries that i have used at .com<br>
 <a href="www.linkedin.com/in/shivanshchhabra"> <img src="https://img.icons8.com/avantgarde/100/null/internet.png"/> </a>
 
-📕  Latest Blog Posts<br>
-links...
+📕  Latest Blog Posts
+- [The only logical Usecase for crypto coins in Real-world…](https://medium.com/@shivanshchhabra02/the-use-case-for-crypto-coins-in-real-world-499816624884)
 <br>  Latest Vidoes <br>
 links...
