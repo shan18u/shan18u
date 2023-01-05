@@ -6,7 +6,7 @@ This is the place where I opensource stuff and break things (for myself). <br>
 ⚡  Check out my YouTube channel and blog posts below.<br>
 
 <img align="left"  height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=shan18u&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-<img  align="left" height="150px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan18u&layout=compact" />
+<img  align="left" height="180px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan18u&layout=compact" />
 
 
 <br><a href="https://www.youtube.com/channel/UCVHrGysYcEcXVY_yzPEV3iQ">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) </a>
