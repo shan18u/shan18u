@@ -19,5 +19,6 @@ This is the place where I opensource stuff and break things (for myself). <br>
 
 📕  Latest Blog Posts
 - [The only logical Usecase for crypto coins in Real-world…](https://medium.com/@shivanshchhabra02/the-use-case-for-crypto-coins-in-real-world-499816624884)
+- [ChatGPT vs StackOverflow](https://medium.com/@shivanshchhabra02/chatgpt-vs-stackoverflow-c8255c8829dd)
 <br>  Latest Vidoes <br>
 links...
