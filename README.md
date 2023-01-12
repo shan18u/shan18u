@@ -1,7 +1,7 @@
 # Hi there, Welcome. I'm Shivansh Chhabra!! 
 This is the place where I opensource stuff and break things (for myself). <br>
 
-💬  **Studying in SJSU, CS student.**<br>
+
 🔭  I’m currently working on something cool and learning about Flutter, Swift and Rust.<br>
 ⚡  Check out my YouTube channel and blog posts below.<br>
 
