@@ -2,8 +2,8 @@
 Welcome to my Open-source hub, where I Experiment and Enhance my skills through hands-on projects.
 
 
-🔭  I am constantly exploring the latest technologies, including Flutter, Swift, React, and Rust, with a focus on creating cutting-edge solutions.
-<br>
+🔭  I am constantly Exploring and Improving my Skills in the latest technologies, including Flutter, Swift, React, and Rust, with a focus on delivering Innovative solutions.
+<br><br>
 ⚡  For those interested, I regularly share my insights and findings through my YouTube channel and blog posts. <br>
 
 
