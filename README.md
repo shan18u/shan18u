@@ -1,9 +1,11 @@
 # Hi there, Welcome. I'm Shivansh Chhabra!! 
-This is the place where I opensource stuff and break things (for myself). <br>
+Welcome to my Open-source hub, where I Experiment and Enhance my skills through hands-on projects.
 
 
-🔭  I’m currently working on something cool and learning about Flutter, Swift and Rust.<br>
-⚡  Check out my YouTube channel and blog posts below.<br>
+🔭  I am constantly exploring the latest technologies, including Flutter, Swift, React, and Rust, with a focus on creating cutting-edge solutions.
+<br>
+⚡  For those interested, I regularly share my insights and findings through my YouTube channel and blog posts. <br>
+
 
 <img align="left"  height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=shan18u&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 <img  align="left" height="200px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan18u&layout=compact" />
