@@ -11,7 +11,7 @@ Welcome to my Open-source hub, where I Experiment and Enhance my skills through 
 <img  align="left" height="200px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan18u&layout=compact" />
 
 
-<br><a href="https://www.youtube.com/channel/UCVHrGysYcEcXVY_yzPEV3iQ">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) </a>
+<br><a href="https://www.youtube.com/">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) </a>
 <a href="www.linkedin.com/in/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="www.linkedin.com/in/" >![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="www.linkedin.com/in/">![Chrome Extension](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</a>
