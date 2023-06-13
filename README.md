@@ -7,7 +7,6 @@ Welcome to my Open-source hub, where I Experiment and Enhance my skills through 
 ⚡  For those interested, I regularly share my insights and findings through my YouTube channel and blog posts. <br>
 
 
-<img align="left"  height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=shan18u&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 <img  align="left" height="200px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan18u&layout=compact" />
 
 
