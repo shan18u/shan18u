@@ -19,7 +19,9 @@ Welcome to my Open-source hub, where I Experiment and Enhance my skills through 
 <a href="www.linkedin.com/in/"> <img height="70px" src="https://img.icons8.com/avantgarde/100/null/internet.png"/> </a>
 
 📕  Latest Blog Posts
+- [Revolution in Job Market by AI](https://medium.com/@shivanshchhabra02/jobs-revolution-by-chatgpt-ac296e958c6e)
 - [The only logical Usecase for crypto coins in Real-world…](https://medium.com/@shivanshchhabra02/the-use-case-for-crypto-coins-in-real-world-499816624884)
 - [ChatGPT vs StackOverflow](https://medium.com/@shivanshchhabra02/chatgpt-vs-stackoverflow-c8255c8829dd)
+
 <br>  Latest Vidoes <br>
 links...
