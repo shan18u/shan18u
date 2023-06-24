@@ -7,7 +7,6 @@ Welcome to my Open-source hub, where I Experiment and Enhance my skills through 
 ⚡  For those interested, I regularly share my insights and findings through my YouTube channel and blog posts. <br>
 
 
-<img  align="left" height="200px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan18u&layout=compact" />
 
 
 <br><a href="https://www.youtube.com/">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) </a>
