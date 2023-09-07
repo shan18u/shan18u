@@ -21,8 +21,7 @@ Welcome to my Open-source hub, where I Experiment and Enhance my skills through 
 - [Revolution in Job Market by AI](https://medium.com/@shivanshchhabra02/jobs-revolution-by-chatgpt-ac296e958c6e)
 - [The only logical Usecase for crypto coins in Real-world…](https://medium.com/@shivanshchhabra02/the-use-case-for-crypto-coins-in-real-world-499816624884)
 - [ChatGPT vs StackOverflow](https://medium.com/@shivanshchhabra02/chatgpt-vs-stackoverflow-c8255c8829dd)
-- [Future of the Apps and Gaming Industries in the Next 5 Years(https://medium.com/@shivanshchhabra02/future-of-the-apps-and-gaming-industries-in-the-next-5-years-2f9b68413a9b
-)
+- [Future of the Apps and Gaming Industries in the Next 5 Years](https://medium.com/@shivanshchhabra02/future-of-the-apps-and-gaming-industries-in-the-next-5-years-2f9b68413a9b)
 
 <br>  Latest Videos <br>
 links...
