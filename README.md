@@ -21,5 +21,6 @@ Welcome to my Open-source hub, where I Experiment and Enhance my skills through 
 - [Future of the Apps and Gaming Industries in the Next 5 Years](https://medium.com/@shivanshchhabra02/future-of-the-apps-and-gaming-industries-in-the-next-5-years-2f9b68413a9b)
 - [Customized Resume using FAANG's Layout](https://www.linkedin.com/posts/shivanshchhabra_youtube-recruiters-improveperformance-activity-7032008191458631681-VREQ/?utm_source=share&utm_medium=member_desktop)
 - [The Future of AR and VR: A 3D Remodeling](https://medium.com/@shivanshchhabra02/the-future-of-ar-and-vr-a-3d-remodeling-3c59659b3958)
+- [GPT_Generator vs GAN_Discriminator](https://medium.com/@shivanshchhabra02/generator-vs-discriminator-the-clash-in-the-generative-arena-0111d9ad0a3f)
 
 
